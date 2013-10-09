@@ -43,7 +43,7 @@ be submitting for this exercise.
      it('should return Saturday for 6', function() {
       expect(getDayName(6)).toBe('Saturday');
      });
-    })`</pre>
+    })`
     ```
     
 3.  Open SpecRunner.html in your browser to run the test suite. You should see all the tests
