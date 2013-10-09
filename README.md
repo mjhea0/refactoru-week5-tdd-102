@@ -20,6 +20,7 @@ unit test that reveals the bug in a faulty join function.
 be submitting for this exercise.
 2.  Copy the following unit test into spec/my-spec.js. Go back and read [How Do I Jasmine](http://evanhahn.com/how-do-i-jasmine/) if you don't understand this code:
 
+     ```
         describe('getDayName', function() {
      it('should return Sunday for 0', function() {
       expect(getDayName(0)).toBe('Sunday');
@@ -43,6 +44,8 @@ be submitting for this exercise.
       expect(getDayName(6)).toBe('Saturday');
      });
     })`</pre>
+    ```
+    
 3.  Open SpecRunner.html in your browser to run the test suite. You should see all the tests
     fail initially.
 4.  Create a new Javascript file to contain the following source code. Modify SpecRunner.html
