@@ -8,7 +8,7 @@ unit test that reveals the bug in a faulty join function.
 
 ### Resources
 
-*   [Jasmine](http://pivotal.github.io/jasmine/) (docs)
+*   [Jasmine](https://jasmine.github.io/) (docs)
 *   [How Do I Jasmine](http://evanhahn.com/how-do-i-jasmine/) (tutorial)
 *   [Unit Testing](https://slid.es/rainelourie/unit-testing/fullscreen) (Raine's Presentation)
 
