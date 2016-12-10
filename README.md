@@ -75,7 +75,7 @@ be submitting for this exercise.
     };`</pre>
 3.  Open SpecRunner.html in your browser to run the test suite. You should see all the tests
     fail initially.
-4.  Edit spec/my-spec.js and write your own [Jasmine](http://pivotal.github.io/jasmine/)-style unit test that verifies the functionality of the join function.    Use `describe`, `it`, and `expect` as seen above.
+4.  Edit spec/my-spec.js and write your own [Jasmine](https://jasmine.github.io/)-style unit test that verifies the functionality of the join function.    Use `describe`, `it`, and `expect` as seen above.
 5.  Add as many tests as you need to adequately test the functionality of
     the join function. There is no easy way to tell whether you have written your tests
     correctly. You have to think through the logic and try to construct the minimum set
